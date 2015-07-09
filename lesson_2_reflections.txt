@@ -21,4 +21,11 @@ commiting.
 What are some situations when branches would be helpful in keeping your
 history organized? How would branches help?
 
-Branches are helpful when you want to add some experimental features and still keep working branch to show it to someone. They will be easily checked out making it more organized.
+Branches are helpful when you want to add some experimental features
+and still keep working branch to show it to someone. They will be 
+easily checked out making it more organized.
+
+How do the diagrams help you visualize the branch structure?
+
+Its easy to see what branches were created and from wich parent commit 
+they originated.
