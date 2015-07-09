@@ -10,3 +10,15 @@ Staging area is placed between working directory and the repository.
 It isn't directory you work on, also it's not the repository which
 have already commited files. Thanks to staging area you can choose 
 which files will be tracked and commited and which does not.
+
+How can you use the staging area to make sure you have one commit per 
+logical change?
+
+After adding changed files to staged area using git add i can then use 
+git diff --staged to check whether i did only one logical change before 
+commiting.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+Branches are helpful when you want to add some experimental features and still keep working branch to show it to someone. They will be easily checked out making it more organized.
