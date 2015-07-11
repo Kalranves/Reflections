@@ -36,3 +36,10 @@ represent it in the diagram the way we do?
 Merging two branches into one combines their code/text and saves all 
 the features introduced by both of them. All commits from two branches 
 are sorted by timestamps.
+
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+Its better to leave simple merging to Git, because you would have the
+same results if u did it manually. Sometimes there will be some 
+problems and u will still have to do it manually.
