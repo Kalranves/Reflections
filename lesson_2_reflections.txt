@@ -29,3 +29,10 @@ How do the diagrams help you visualize the branch structure?
 
 Its easy to see what branches were created and from wich parent commit 
 they originated.
+
+What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+
+Merging two branches into one combines their code/text and saves all 
+the features introduced by both of them. All commits from two branches 
+are sorted by timestamps.
