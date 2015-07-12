@@ -10,3 +10,10 @@ Git automatically stay up-to-date with your remote repository?
 
 Its because if Git pulls automatically something might stop working 
 correctly while you are in the middle of doing something else.
+
+Describe the differences between forks, clones, and branches. When 
+would you use one instead of another?
+
+You make forks on GitHub from someones else repository that you can 
+have it on your GitHub and make changes to it. By clonning you get the 
+repository to your local machine. Branches exist inside one repository.
