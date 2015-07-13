@@ -25,6 +25,12 @@ When you use git fetch you get it updated so you can check what changes
 were made using git diff. You can compare / merge even offline since 
 you got it stored locally.
 
+When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+
+You may want to do that when you are not sure if the changes should be 
+implemented to master branch and need feedback from others.
+
 How would you collaborate without using Git or GitHub? What would be 
 easier, and what would be harder?
 
